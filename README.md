@@ -10,3 +10,5 @@
 
 
 <img src="https://github.com/rodrigorobl/easy-shopping/blob/master/assets/desktop.png?raw=true" />
+<br>
+<img src="https://github.com/rodrigorobl/easy-shopping/blob/master/assets/mobile.png?raw=true" />
