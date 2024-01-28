@@ -8,7 +8,9 @@
   <p>- HTML</p>
   <p>- CSS</p>
 
-
-<img src="https://github.com/rodrigorobl/easy-shopping/blob/master/assets/desktop.png?raw=true" />
-<br>
-<img src="https://github.com/rodrigorobl/easy-shopping/blob/master/assets/mobile.png?raw=true" />
+<div>
+    <img src="https://github.com/rodrigorobl/easy-shopping/blob/master/assets/desktop.png?raw=true" />
+ </div>
+<div>
+   <img src="https://github.com/rodrigorobl/easy-shopping/blob/master/assets/mobile.png?raw=true" />
+</div>
